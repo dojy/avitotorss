@@ -1,7 +1,6 @@
 avitotorss
 ==========
 
-<<<<<<< HEAD
 nodejs avito ru parser with rss feed
 
 
@@ -17,6 +16,3 @@ go to localhost:3000
 paste link of your search on avito in text field and pick up rss link
 have fun!
 
-=======
-node js express application to parse avito ru any page and to transform it to rss
->>>>>>> bddb5950fd91384ba586b902278598068221582e
